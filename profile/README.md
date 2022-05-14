@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+cvpkg means Computer Vision related Packages.
+
+Use Github Actions to build related C/C++ opensource projects.
 <!--
 
 **Here are some ideas to get you started:**
